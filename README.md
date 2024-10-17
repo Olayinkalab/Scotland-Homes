@@ -17,6 +17,12 @@
 ## Project Overview
 
 This Data Analysis project for Scotland Homes aims to provide insights into how project resources have been managed over the past four years across scotland. By analyzing various aspects of resource data, we seek to identify trends in budget allocations, enhance risk identification, and make data-driven recommendations for mitigation strategies. Ultimately, the goal is to improve overall productivity and project outcomes.
+<img width="598" alt="Dashboard overview" src="https://github.com/user-attachments/assets/49ad35a7-c453-49ed-942d-09c8273233d0">
+<img width="551" alt="Project Performance" src="https://github.com/user-attachments/assets/7c87a014-046d-4a8d-89fa-c57f32b70495">
+<img width="558" alt="Issue cost summary" src="https://github.com/user-attachments/assets/7f9f5834-f713-4d93-9e07-f1d4bb6416f2">
+<img width="551" alt="Risk Analysis" src="https://github.com/user-attachments/assets/723f30e5-f300-40fd-a14d-64515fbffb86">
+
+
 
 ## Data sources 
 
