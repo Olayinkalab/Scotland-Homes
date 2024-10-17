@@ -4,19 +4,21 @@
 
 - [Project overview](#project-overview)
 - [Data sources](#data-sources)
-- [Tools](tools)
-- [Data cleaning / Preparation](data-cleaning-Preparation)
-- [Exploratory Data Analysis (EDA)](exploratory-Data-analysis-(EDA))
-- [Data Analysis](data-analysis)
-- [Results/Findings](Results-/Findings)
-- [Recommendations](recommendations)
-- [Limitations](limitations)
-- [References](References)
+- [Tools](#tools)
+- [Data cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
 
   
 ## Project Overview
+---
 
 This Data Analysis project for Scotland Homes aims to provide insights into how project resources have been managed over the past four years across scotland. By analyzing various aspects of resource data, we seek to identify trends in budget allocations, enhance risk identification, and make data-driven recommendations for mitigation strategies. Ultimately, the goal is to improve overall productivity and project outcomes.
+
 <img width="598" alt="Dashboard overview" src="https://github.com/user-attachments/assets/49ad35a7-c453-49ed-942d-09c8273233d0">
 <img width="551" alt="Project Performance" src="https://github.com/user-attachments/assets/7c87a014-046d-4a8d-89fa-c57f32b70495">
 <img width="558" alt="Issue cost summary" src="https://github.com/user-attachments/assets/7f9f5834-f713-4d93-9e07-f1d4bb6416f2">
@@ -36,20 +38,20 @@ Project logs data: The primary dataset used for this analysis  is the 'Project_c
 - PowerBI - Data Visuslisation
 
 
-### Data cleaning / Preparation
+### Data cleaning
 
   In the innitial data preparation phase , I performed the following tasks
   1. Data loading and inspections,
   2. Handing missing values,
   3. Data cleaning and formatting.
  
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 
 EDA Invlolved exploring the project Logs data to answer key questions , such as 
 
 - What is the overall project cost and progress ?
 - The Risk analysis and mitigation progress ?
-- Performance of each PN on project on costs savings?
+- Performance of each PM on project on costs savings?
 
 ## Data Analysis
 
@@ -60,7 +62,7 @@ SELECT* FROM PROJECT
 WHERE PROJECT_ TITLE  = 'Dalkeith','Lasswade','Roslin'
 ```
 
-### Results/Findings 
+### Findings 
 
 The analysis result are summerinsed as follows
 1.The value of the Scotland Homes project has seen significant growth over the past four years, following government approval to build more affordable housing for mid-market rent.
@@ -78,6 +80,14 @@ Due to privacy concerns, the Health and Safety and RIBA Quality columns were exc
 
 ### References 
 [Enterprise-wide information system for construction](https://www.bing.com/search?q=enterprise-wide+information+system+for+construction+%3A+a+document+based+approach+mohammed+arif*%2C+dennis+kulonda**%2C+charles+egbu***%2C+jack+s.+goulding****%2C+and+tahsin+toma*****+received+march+25%2C+2009%2Frevised+november+12%2C+2009%2Faccepted+may+7%2C+2010&gs_lcrp=EgZjaHJvbWUqBwgAEEUYwgMyBwgAEEUYwgMyBwgBEEUYwgMyBwgCEEUYwgMyBwgDEEUYwgMyBwgEEEUYwgMyBwgFEEUYwgMyBwgGEEUYwgMyBwgHEEUYwgPSAQoxMjA3MjZqMGo0qAIIsAIB&FORM=ANAB01&PC=HCTS)
+
+😄
+💻
+
+|Skills |Tools|
+|--------|--------|
+|Python |SQL|
+
 
 
 
